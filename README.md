@@ -6,3 +6,5 @@ Mi primera contribución local para Github
 Esto es un commit desde Github
 
 Una actualización más
+
+Cambios desde dev editor
